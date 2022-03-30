@@ -1,1 +1,3 @@
-def sssss
+def sssss:
+	ZEN: SSSSSS
+	
