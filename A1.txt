@@ -12,3 +12,6 @@ def 4564654654:
 	end()
 	okok()
 	ZEN: SSSSS
+	
+def aaa:
+	ZEN: SSSSS
